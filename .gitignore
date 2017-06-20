@@ -1,0 +1,5 @@
+.idea/
+thinkphp/
+vendor/
+runtime/
+composer.lock
